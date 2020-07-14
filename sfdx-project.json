@@ -13,7 +13,7 @@
         }
     ],
     "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sfdcLoginUrl": "https://test.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
         "Bamboo": "0Ho0N000000CaT3SAK",
